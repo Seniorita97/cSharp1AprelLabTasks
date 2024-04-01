@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ConsoleApp20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88377C47-9BD0-4263-8361-48B98AD7AF3A}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\pc\\source\\repos\\consoleapp20\\consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88377C47-9BD0-4263-8361-48B98AD7AF3A}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88377C47-9BD0-4263-8361-48B98AD7AF3A}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\pc\\source\\repos\\consoleapp20\\consoleapp20\\fulltimeemploye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88377C47-9BD0-4263-8361-48B98AD7AF3A}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\fulltimeemploye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88377C47-9BD0-4263-8361-48B98AD7AF3A}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\pc\\source\\repos\\consoleapp20\\consoleapp20\\parttimeemploye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88377C47-9BD0-4263-8361-48B98AD7AF3A}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\parttimeemploye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88377C47-9BD0-4263-8361-48B98AD7AF3A}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\pc\\source\\repos\\consoleapp20\\consoleapp20\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88377C47-9BD0-4263-8361-48B98AD7AF3A}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartTimeEmploye.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp20\\ConsoleApp20\\PartTimeEmploye.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\PartTimeEmploye.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp20\\ConsoleApp20\\PartTimeEmploye.cs",
+              "RelativeToolTip": "ConsoleApp20\\PartTimeEmploye.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:36:57.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FullTimeEmploye.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp20\\ConsoleApp20\\FullTimeEmploye.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\FullTimeEmploye.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp20\\ConsoleApp20\\FullTimeEmploye.cs",
+              "RelativeToolTip": "ConsoleApp20\\FullTimeEmploye.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:22:51.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employe.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp20\\ConsoleApp20\\Employe.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Employe.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp20\\ConsoleApp20\\Employe.cs",
+              "RelativeToolTip": "ConsoleApp20\\Employe.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:15:46.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp20\\ConsoleApp20\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp20\\ConsoleApp20\\Program.cs",
+              "RelativeToolTip": "ConsoleApp20\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:14:39.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
